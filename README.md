@@ -1,9 +1,6 @@
 # php_addressbook_app_1
 
 
-php_addressbook_app_1
-=========
-
 - [Intro](#intro)
 
 Intro
